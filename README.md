@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <h1><img src="assets/logo.png" height="28px" /> RL for Tool Learning Papers </h1>
+    <h1> RL for Tool Learning Papers </h1>
 </div>
 
 ## Papers
